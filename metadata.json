@@ -1,0 +1,6 @@
+{
+  "name": "DECO Study Studio — U24EC304",
+  "description": "Structured syllabus organizer, chapter study notes, interactive hardware sandboxes, progress tracker, and quizzes for Digital Electronics & Computer Organization (U24EC304).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
